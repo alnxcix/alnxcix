@@ -38,8 +38,6 @@
 
 <a href="https://www.twitter.com/alnxcix" target="blank"><img src="./svg/twitter.svg" height=75/></a> <a href="https://www.instagram.com/alnxcix" target="blank"><img src="./svg/instagram.svg" height=75/></a> <a href="https://open.spotify.com/user/alnxcix?si=0ec063e243634d9d" target="blank"><img src="./svg/spotify.svg" height=75/></a>
 
----
-
 <!-- Sources -->
 <!-- Pacman GIF: https://fuckyeah-pixels.tumblr.com/post/32184582652 -->
 <!-- Icons: https://simpleicons.org/ -->
