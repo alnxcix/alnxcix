@@ -1,12 +1,12 @@
-<p style="text-align: center">
+<p align="center">
   <img src="./gif/hey-there.gif" />
 </p>
 
-<p style="text-align: center">
+<p align="center">
   <img src="./gif/pacman-ghosts.gif" height=50/>
 </p>
 
-## 👋 I'm Allen, a Philippine-based IT student and an aspiring frontend developer among many other things. Thanks for dropping by.
+### 👋 I'm Allen, a Philippine-based IT student and an aspiring frontend developer among many other things. Thanks for dropping by.
 
 ---
 
