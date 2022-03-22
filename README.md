@@ -18,7 +18,7 @@
 
 <img src="./gif/i-have-experienced-using.gif" height=50/>
 
-<img src="./svg/java.svg" height=75/> <img src="./svg/oracle.svg" height=75/> <img src="./svg/git.svg" height=75/> <img src="./svg/nodedotjs.svg" height=75/> <img src="./svg/mongodb.svg" height=75/> <img src="./svg/androidstudio.svg" height=75/> <img src="./svg/electron.svg" height=75/> <img src="./svg/dotnet.svg" height=75/> <img src="./svg/python.svg" height=75/> <img src="./svg/php.svg" height=75/> <img src="./svg/phpmyadmin.svg" height=75/> <img src="./svg/mysql.svg" height=75/>
+<img src="./svg/java.svg" height=75/> <img src="./svg/git.svg" height=75/> <img src="./svg/nodedotjs.svg" height=75/> <img src="./svg/mongodb.svg" height=75/>
 
 ---
 
